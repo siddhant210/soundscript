@@ -36,13 +36,16 @@ SoundScript is a modern web application that converts speech to text with a slee
 ## 📸 Screenshots
 
 ### 🎬 Landing Page
-![Landing Page](https://your-image-url.com/landing.png)
+
+![image](https://github.com/user-attachments/assets/b0150d8f-624d-4e1a-b9cb-70c5de49d3dd)
 
 ### ⏳ Processing Page
-![Processing Page](https://your-image-url.com/processing.png)
+![image](https://github.com/user-attachments/assets/ed2818ff-a3cd-47eb-9582-cdbd209e68e7)
+
 
 ### 📝 Results Page
-![Results Page](https://your-image-url.com/results.png)
+![image](https://github.com/user-attachments/assets/cc4bf465-281f-4307-b8b7-490381291d51)
+
 
 ## 🏗️ Installation & Setup
 
